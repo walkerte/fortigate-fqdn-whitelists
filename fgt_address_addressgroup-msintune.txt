@@ -1,0 +1,306 @@
+config firewall address
+edit "*.delivery.mp.microsoft.com"
+	set type fqdn
+	set fqdn "*.delivery.mp.microsoft.com"
+next
+edit "*.manage.microsoft.com"
+	set type fqdn
+	set fqdn "*.manage.microsoft.com"
+next
+edit "*.prod.do.dsp.mp.microsoft.com"
+	set type fqdn
+	set fqdn "*.prod.do.dsp.mp.microsoft.com"
+next
+edit "*.s-microsoft.com"
+	set type fqdn
+	set fqdn "*.s-microsoft.com"
+next
+edit "*.update.microsoft.com"
+	set type fqdn
+	set fqdn "*.update.microsoft.com"
+next
+edit "*.windowsupdate.com"
+	set type fqdn
+	set fqdn "*.windowsupdate.com"
+next
+edit "approdimedatahotfix.azureedge.net"
+	set type fqdn
+	set fqdn "approdimedatahotfix.azureedge.net"
+next
+edit "approdimedatapri.azureedge.net"
+	set type fqdn
+	set fqdn "approdimedatapri.azureedge.net"
+next
+edit "approdimedatasec.azureedge.net"
+	set type fqdn
+	set fqdn "approdimedatasec.azureedge.net"
+next
+edit "clientconfig.passport.net"
+	set type fqdn
+	set fqdn "clientconfig.passport.net"
+next
+edit "emdl.ws.microsoft.com"
+	set type fqdn
+	set fqdn "emdl.ws.microsoft.com"
+next
+edit "euprodimedatahotfix.azureedge.net"
+	set type fqdn
+	set fqdn "euprodimedatahotfix.azureedge.net"
+next
+edit "euprodimedatapri.azureedge.net"
+	set type fqdn
+	set fqdn "euprodimedatapri.azureedge.net"
+next
+edit "euprodimedatasec.azureedge.net"
+	set type fqdn
+	set fqdn "euprodimedatasec.azureedge.net"
+next
+edit "manage.microsoft.com"
+	set type fqdn
+	set fqdn "manage.microsoft.com"
+next
+edit "time.windows.com"
+	set type fqdn
+	set fqdn "time.windows.com"
+next
+edit "tsfe.trafficshaping.dsp.mp.microsoft.com"
+	set type fqdn
+	set fqdn "tsfe.trafficshaping.dsp.mp.microsoft.com"
+next
+edit "windowsphone.com"
+	set type fqdn
+	set fqdn "windowsphone.com"
+next
+edit "www.msftconnecttest.com"
+	set type fqdn
+	set fqdn "www.msftconnecttest.com"
+next
+edit "www.msftncsi.com"
+	set type fqdn
+	set fqdn "www.msftncsi.com"
+next
+edit "*.channelservices.microsoft.com"
+	set type fqdn
+	set fqdn "*.channelservices.microsoft.com"
+next
+edit "*.dl.delivery.mp.microsoft.com"
+	set type fqdn
+	set fqdn "*.dl.delivery.mp.microsoft.com"
+next
+edit "*.do.dsp.mp.microsoft.com"
+	set type fqdn
+	set fqdn "*.do.dsp.mp.microsoft.com"
+next
+edit "*.emdl.ws.microsoft.com"
+	set type fqdn
+	set fqdn "*.emdl.ws.microsoft.com"
+next
+edit "*.go-mpulse.net"
+	set type fqdn
+	set fqdn "*.go-mpulse.net"
+next
+edit "*.infra.lync.com"
+	set type fqdn
+	set fqdn "*.infra.lync.com"
+next
+edit "*.itunes.apple.com"
+	set type fqdn
+	set fqdn "*.itunes.apple.com"
+next
+edit "*.mzstatic.com"
+	set type fqdn
+	set fqdn "*.mzstatic.com"
+next
+edit "*.notify.windows.com"
+	set type fqdn
+	set fqdn "*.notify.windows.com"
+next
+edit "*.phobos.apple.com"
+	set type fqdn
+	set fqdn "*.phobos.apple.com"
+next
+edit "*.resources.lync.com"
+	set type fqdn
+	set fqdn "*.resources.lync.com"
+next
+edit "*.support.services.microsoft.com"
+	set type fqdn
+	set fqdn "*.support.services.microsoft.com"
+next
+edit "*.trouter.skype.com"
+	set type fqdn
+	set fqdn "*.trouter.skype.com"
+next
+edit "*.vortex.data.microsoft.com"
+	set type fqdn
+	set fqdn "*.vortex.data.microsoft.com"
+next
+edit "*.wns.windows.com"
+	set type fqdn
+	set fqdn "*.wns.windows.com"
+next
+edit "5-courier.push.apple.com"
+	set type fqdn
+	set fqdn "5-courier.push.apple.com"
+next
+edit "ax.itunes.apple.com.edgesuite.net"
+	set type fqdn
+	set fqdn "ax.itunes.apple.com.edgesuite.net"
+next
+edit "edge.skype.com"
+	set type fqdn
+	set fqdn "edge.skype.com"
+next
+edit "ekcert.spserv.microsoft.com"
+	set type fqdn
+	set fqdn "ekcert.spserv.microsoft.com"
+next
+edit "ekop.intel.com"
+	set type fqdn
+	set fqdn "ekop.intel.com"
+next
+edit "ftpm.amd.com"
+	set type fqdn
+	set fqdn "ftpm.amd.com"
+next
+edit "intunecdnpeasd.azureedge.net"
+	set type fqdn
+	set fqdn "intunecdnpeasd.azureedge.net"
+next
+edit "itunes.apple.com"
+	set type fqdn
+	set fqdn "itunes.apple.com"
+next
+edit "lgmsapeweu.blob.core.windows.net"
+	set type fqdn
+	set fqdn "lgmsapeweu.blob.core.windows.net"
+next
+edit "naprodimedatahotfix.azureedge.net"
+	set type fqdn
+	set fqdn "naprodimedatahotfix.azureedge.net"
+next
+edit "naprodimedatapri.azureedge.net"
+	set type fqdn
+	set fqdn "naprodimedatapri.azureedge.net"
+next
+edit "ocsp.apple.com"
+	set type fqdn
+	set fqdn "ocsp.apple.com"
+next
+edit "phobos.apple.com"
+	set type fqdn
+	set fqdn "phobos.apple.com"
+next
+edit "phobos.itunes-apple.com.akadns.net"
+	set type fqdn
+	set fqdn "phobos.itunes-apple.com.akadns.net"
+next
+edit "remoteassistanceprodacs.communication.azure.com"
+	set type fqdn
+	set fqdn "remoteassistanceprodacs.communication.azure.com"
+next
+edit "swda01-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swda01-mscdn.azureedge.net"
+next
+edit "swda02-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swda02-mscdn.azureedge.net"
+next
+edit "swdb01-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swdb01-mscdn.azureedge.net"
+next
+edit "swdb02-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swdb02-mscdn.azureedge.net"
+next
+edit "swdc01-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swdc01-mscdn.azureedge.net"
+next
+edit "swdc02-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swdc02-mscdn.azureedge.net"
+next
+edit "swdd01-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swdd01-mscdn.azureedge.net"
+next
+edit "swdd02-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swdd02-mscdn.azureedge.net"
+next
+edit "swdin01-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swdin01-mscdn.azureedge.net"
+next
+edit "swdin02-mscdn.azureedge.net"
+	set type fqdn
+	set fqdn "swdin02-mscdn.azureedge.net"
+next
+end
+config firewall addrgrp
+edit "microsoft intune whitelist"
+	append member "*.delivery.mp.microsoft.com"
+	append member "*.manage.microsoft.com"
+	append member "*.prod.do.dsp.mp.microsoft.com"
+	append member "*.s-microsoft.com"
+	append member "*.update.microsoft.com"
+	append member "*.windowsupdate.com"
+	append member "approdimedatahotfix.azureedge.net"
+	append member "approdimedatapri.azureedge.net"
+	append member "approdimedatasec.azureedge.net"
+	append member "clientconfig.passport.net"
+	append member "emdl.ws.microsoft.com"
+	append member "euprodimedatahotfix.azureedge.net"
+	append member "euprodimedatapri.azureedge.net"
+	append member "euprodimedatasec.azureedge.net"
+	append member "manage.microsoft.com"
+	append member "time.windows.com"
+	append member "tsfe.trafficshaping.dsp.mp.microsoft.com"
+	append member "windowsphone.com"
+	append member "www.msftconnecttest.com"
+	append member "www.msftncsi.com"
+	append member "*.channelservices.microsoft.com"
+	append member "*.dl.delivery.mp.microsoft.com"
+	append member "*.do.dsp.mp.microsoft.com"
+	append member "*.emdl.ws.microsoft.com"
+	append member "*.go-mpulse.net"
+	append member "*.infra.lync.com"
+	append member "*.itunes.apple.com"
+	append member "*.mzstatic.com"
+	append member "*.notify.windows.com"
+	append member "*.phobos.apple.com"
+	append member "*.resources.lync.com"
+	append member "*.support.services.microsoft.com"
+	append member "*.trouter.skype.com"
+	append member "*.vortex.data.microsoft.com"
+	append member "*.wns.windows.com"
+	append member "5-courier.push.apple.com"
+	append member "ax.itunes.apple.com.edgesuite.net"
+	append member "edge.skype.com"
+	append member "ekcert.spserv.microsoft.com"
+	append member "ekop.intel.com"
+	append member "ftpm.amd.com"
+	append member "intunecdnpeasd.azureedge.net"
+	append member "itunes.apple.com"
+	append member "lgmsapeweu.blob.core.windows.net"
+	append member "naprodimedatahotfix.azureedge.net"
+	append member "naprodimedatapri.azureedge.net"
+	append member "ocsp.apple.com"
+	append member "phobos.apple.com"
+	append member "phobos.itunes-apple.com.akadns.net"
+	append member "remoteassistanceprodacs.communication.azure.com"
+	append member "swda01-mscdn.azureedge.net"
+	append member "swda02-mscdn.azureedge.net"
+	append member "swdb01-mscdn.azureedge.net"
+	append member "swdb02-mscdn.azureedge.net"
+	append member "swdc01-mscdn.azureedge.net"
+	append member "swdc02-mscdn.azureedge.net"
+	append member "swdd01-mscdn.azureedge.net"
+	append member "swdd02-mscdn.azureedge.net"
+	append member "swdin01-mscdn.azureedge.net"
+	append member "swdin02-mscdn.azureedge.net"
+next
+end
