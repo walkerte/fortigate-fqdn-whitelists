@@ -1,1121 +1,1121 @@
 config firewall address
 edit "*.azure.com"
-	set type fqdn
-	set fqdn "*.azure.com"
+set type fqdn
+set fqdn "*.azure.com"
 next
 edit "*.hotmail.com"
-	set type fqdn
-	set fqdn "*.hotmail.com"
+set type fqdn
+set fqdn "*.hotmail.com"
 next
 edit "*.office.com"
-	set type fqdn
-	set fqdn "*.office.com"
+set type fqdn
+set fqdn "*.office.com"
 next
 edit "*.outlook.com"
-	set type fqdn
-	set fqdn "*.outlook.com"
+set type fqdn
+set fqdn "*.outlook.com"
 next
 edit "*.sharepoint.com"
-	set type fqdn
-	set fqdn "*.sharepoint.com"
+set type fqdn
+set fqdn "*.sharepoint.com"
 next
 edit "*.teams.microsoft.com"
-	set type fqdn
-	set fqdn "*.teams.microsoft.com"
+set type fqdn
+set fqdn "*.teams.microsoft.com"
 next
 edit "smtp.office365.com"
-	set type fqdn
-	set fqdn "smtp.office365.com"
+set type fqdn
+set fqdn "smtp.office365.com"
 next
 edit "login.microsoft.com"
-	set type fqdn
-	set fqdn "login.microsoft.com"
+set type fqdn
+set fqdn "login.microsoft.com"
 next
 edit "login.microsoftonline.com"
-	set type fqdn
-	set fqdn "login.microsoftonline.com"
+set type fqdn
+set fqdn "login.microsoftonline.com"
 next
 edit "login.windows.net"
-	set type fqdn
-	set fqdn "login.windows.net"
+set type fqdn
+set fqdn "login.windows.net"
 next
 edit "outlook.office365.com"
-	set type fqdn
-	set fqdn "outlook.office365.com"
+set type fqdn
+set fqdn "outlook.office365.com"
 next
 edit "*.officeconfig.msocdn.com"
-	set type fqdn
-	set fqdn "*.officeconfig.msocdn.com"
+set type fqdn
+set fqdn "*.officeconfig.msocdn.com"
 next
 edit "config.office.com"
-	set type fqdn
-	set fqdn "config.office.com"
+set type fqdn
+set fqdn "config.office.com"
 next
 edit "enterpriseregistration.windows.net"
-	set type fqdn
-	set fqdn "enterpriseregistration.windows.net"
+set type fqdn
+set fqdn "enterpriseregistration.windows.net"
 next
 edit "graph.windows.net"
-	set type fqdn
-	set fqdn "graph.windows.net"
+set type fqdn
+set fqdn "graph.windows.net"
 next
 edit "*.mail.protection.outlook.com"
-	set type fqdn
-	set fqdn "*.mail.protection.outlook.com"
+set type fqdn
+set fqdn "*.mail.protection.outlook.com"
 next
 edit "*.outlook.office.com"
-	set type fqdn
-	set fqdn "*.outlook.office.com"
+set type fqdn
+set fqdn "*.outlook.office.com"
 next
 edit "*.protection.outlook.com"
-	set type fqdn
-	set fqdn "*.protection.outlook.com"
+set type fqdn
+set fqdn "*.protection.outlook.com"
 next
 edit "*.search.production.apac.trafficmanager.net"
-	set type fqdn
-	set fqdn "*.search.production.apac.trafficmanager.net"
+set type fqdn
+set fqdn "*.search.production.apac.trafficmanager.net"
 next
 edit "*.search.production.emea.trafficmanager.net"
-	set type fqdn
-	set fqdn "*.search.production.emea.trafficmanager.net"
+set type fqdn
+set fqdn "*.search.production.emea.trafficmanager.net"
 next
 edit "*.search.production.us.trafficmanager.net"
-	set type fqdn
-	set fqdn "*.search.production.us.trafficmanager.net"
+set type fqdn
+set fqdn "*.search.production.us.trafficmanager.net"
 next
 edit "*.svc.ms"
-	set type fqdn
-	set fqdn "*.svc.ms"
+set type fqdn
+set fqdn "*.svc.ms"
 next
 edit "*.wns.windows.com"
-	set type fqdn
-	set fqdn "*.wns.windows.com"
+set type fqdn
+set fqdn "*.wns.windows.com"
 next
 edit "admin.onedrive.com"
-	set type fqdn
-	set fqdn "admin.onedrive.com"
+set type fqdn
+set fqdn "admin.onedrive.com"
 next
 edit "autodiscover.*.onmicrosoft.com"
-	set type fqdn
-	set fqdn "autodiscover.*.onmicrosoft.com"
+set type fqdn
+set fqdn "autodiscover.*.onmicrosoft.com"
 next
 edit "g.live.com"
-	set type fqdn
-	set fqdn "g.live.com"
+set type fqdn
+set fqdn "g.live.com"
 next
 edit "officeclient.microsoft.com"
-	set type fqdn
-	set fqdn "officeclient.microsoft.com"
+set type fqdn
+set fqdn "officeclient.microsoft.com"
 next
 edit "oneclient.sfx.ms"
-	set type fqdn
-	set fqdn "oneclient.sfx.ms"
+set type fqdn
+set fqdn "oneclient.sfx.ms"
 next
 edit "outlook.office.com"
-	set type fqdn
-	set fqdn "outlook.office.com"
+set type fqdn
+set fqdn "outlook.office.com"
 next
 edit "spoprod-a.akamaihd.net"
-	set type fqdn
-	set fqdn "spoprod-a.akamaihd.net"
+set type fqdn
+set fqdn "spoprod-a.akamaihd.net"
 next
 edit "ssw.live.com"
-	set type fqdn
-	set fqdn "ssw.live.com"
+set type fqdn
+set fqdn "ssw.live.com"
 next
 edit "storage.live.com"
-	set type fqdn
-	set fqdn "storage.live.com"
+set type fqdn
+set fqdn "storage.live.com"
 next
 edit "*.adl.windows.com"
-	set type fqdn
-	set fqdn "*.adl.windows.com"
+set type fqdn
+set fqdn "*.adl.windows.com"
 next
 edit "*.azureedge.net"
-	set type fqdn
-	set fqdn "*.azureedge.net"
+set type fqdn
+set fqdn "*.azureedge.net"
 next
 edit "*.broadcast.skype.com"
-	set type fqdn
-	set fqdn "*.broadcast.skype.com"
+set type fqdn
+set fqdn "*.broadcast.skype.com"
 next
 edit "*.ecdn.microsoft.com"
-	set type fqdn
-	set fqdn "*.ecdn.microsoft.com"
+set type fqdn
+set fqdn "*.ecdn.microsoft.com"
 next
 edit "*.keydelivery.mediaservices.windows.net"
-	set type fqdn
-	set fqdn "*.keydelivery.mediaservices.windows.net"
+set type fqdn
+set fqdn "*.keydelivery.mediaservices.windows.net"
 next
 edit "*.lync.com"
-	set type fqdn
-	set fqdn "*.lync.com"
+set type fqdn
+set fqdn "*.lync.com"
 next
 edit "*.media.azure.net"
-	set type fqdn
-	set fqdn "*.media.azure.net"
+set type fqdn
+set fqdn "*.media.azure.net"
 next
 edit "*.microsoft.com"
-	set type fqdn
-	set fqdn "*.microsoft.com"
+set type fqdn
+set fqdn "*.microsoft.com"
 next
 edit "*.microsoftstream.com"
-	set type fqdn
-	set fqdn "*.microsoftstream.com"
+set type fqdn
+set fqdn "*.microsoftstream.com"
 next
 edit "*.mstea.m"
-	set type fqdn
-	set fqdn "*.mstea.m"
+set type fqdn
+set fqdn "*.mstea.m"
 next
 edit "*.office.net"
-	set type fqdn
-	set fqdn "*.office.net"
+set type fqdn
+set fqdn "*.office.net"
 next
 edit "*.officeapps.live.com"
-	set type fqdn
-	set fqdn "*.officeapps.live.com"
+set type fqdn
+set fqdn "*.officeapps.live.com"
 next
 edit "*.online.office.com"
-	set type fqdn
-	set fqdn "*.online.office.com"
+set type fqdn
+set fqdn "*.online.office.com"
 next
 edit "*.secure.skypeassets.com"
-	set type fqdn
-	set fqdn "*.secure.skypeassets.com"
+set type fqdn
+set fqdn "*.secure.skypeassets.com"
 next
 edit "*.sfbassets.com"
-	set type fqdn
-	set fqdn "*.sfbassets.com"
+set type fqdn
+set fqdn "*.sfbassets.com"
 next
 edit "*.skype.com"
-	set type fqdn
-	set fqdn "*.skype.com"
+set type fqdn
+set fqdn "*.skype.com"
 next
 edit "*.skypeforbusiness.com"
-	set type fqdn
-	set fqdn "*.skypeforbusiness.com"
+set type fqdn
+set fqdn "*.skypeforbusiness.com"
 next
 edit "*.streaming.mediaservices.windows.net"
-	set type fqdn
-	set fqdn "*.streaming.mediaservices.windows.net"
+set type fqdn
+set fqdn "*.streaming.mediaservices.windows.net"
 next
 edit "*.users.storage.live.com"
-	set type fqdn
-	set fqdn "*.users.storage.live.com"
+set type fqdn
+set fqdn "*.users.storage.live.com"
 next
 edit "*cdn.onenote.net"
-	set type fqdn
-	set fqdn "*cdn.onenote.net"
+set type fqdn
+set fqdn "*cdn.onenote.net"
 next
 edit "ajax.aspnetcdn.com"
-	set type fqdn
-	set fqdn "ajax.aspnetcdn.com"
+set type fqdn
+set fqdn "ajax.aspnetcdn.com"
 next
 edit "aka.ms"
-	set type fqdn
-	set fqdn "aka.ms"
+set type fqdn
+set fqdn "aka.ms"
 next
 edit "apis.live.net"
-	set type fqdn
-	set fqdn "apis.live.net"
+set type fqdn
+set fqdn "apis.live.net"
 next
 edit "broadcast.skype.com"
-	set type fqdn
-	set fqdn "broadcast.skype.com"
+set type fqdn
+set fqdn "broadcast.skype.com"
 next
 edit "compass-ssl.microsoft.com"
-	set type fqdn
-	set fqdn "compass-ssl.microsoft.com"
+set type fqdn
+set fqdn "compass-ssl.microsoft.com"
 next
 edit "mlccdn.blob.core.windows.net"
-	set type fqdn
-	set fqdn "mlccdn.blob.core.windows.net"
+set type fqdn
+set fqdn "mlccdn.blob.core.windows.net"
 next
 edit "mlccdnprod.azureedge.net"
-	set type fqdn
-	set fqdn "mlccdnprod.azureedge.net"
+set type fqdn
+set fqdn "mlccdnprod.azureedge.net"
 next
 edit "nps.onyx.azure.net"
-	set type fqdn
-	set fqdn "nps.onyx.azure.net"
+set type fqdn
+set fqdn "nps.onyx.azure.net"
 next
 edit "office.live.com"
-	set type fqdn
-	set fqdn "office.live.com"
+set type fqdn
+set fqdn "office.live.com"
 next
 edit "officeapps.live.com"
-	set type fqdn
-	set fqdn "officeapps.live.com"
+set type fqdn
+set fqdn "officeapps.live.com"
 next
 edit "teams.microsoft.com"
-	set type fqdn
-	set fqdn "teams.microsoft.com"
+set type fqdn
+set fqdn "teams.microsoft.com"
 next
 edit "www.onedrive.com"
-	set type fqdn
-	set fqdn "www.onedrive.com"
+set type fqdn
+set fqdn "www.onedrive.com"
 next
 edit "*.auth.microsoft.com"
-	set type fqdn
-	set fqdn "*.auth.microsoft.com"
+set type fqdn
+set fqdn "*.auth.microsoft.com"
 next
 edit "*.hip.live.com"
-	set type fqdn
-	set fqdn "*.hip.live.com"
+set type fqdn
+set fqdn "*.hip.live.com"
 next
 edit "*.microsoftonline-p.com"
-	set type fqdn
-	set fqdn "*.microsoftonline-p.com"
+set type fqdn
+set fqdn "*.microsoftonline-p.com"
 next
 edit "*.microsoftonline.com"
-	set type fqdn
-	set fqdn "*.microsoftonline.com"
+set type fqdn
+set fqdn "*.microsoftonline.com"
 next
 edit "*.msauth.net"
-	set type fqdn
-	set fqdn "*.msauth.net"
+set type fqdn
+set fqdn "*.msauth.net"
 next
 edit "*.msauthimages.net"
-	set type fqdn
-	set fqdn "*.msauthimages.net"
+set type fqdn
+set fqdn "*.msauthimages.net"
 next
 edit "*.msecnd.net"
-	set type fqdn
-	set fqdn "*.msecnd.net"
+set type fqdn
+set fqdn "*.msecnd.net"
 next
 edit "*.msftauth.net"
-	set type fqdn
-	set fqdn "*.msftauth.net"
+set type fqdn
+set fqdn "*.msftauth.net"
 next
 edit "*.msftauthimages.net"
-	set type fqdn
-	set fqdn "*.msftauthimages.net"
+set type fqdn
+set fqdn "*.msftauthimages.net"
 next
 edit "*.msftidentity.com"
-	set type fqdn
-	set fqdn "*.msftidentity.com"
+set type fqdn
+set fqdn "*.msftidentity.com"
 next
 edit "*.msidentity.com"
-	set type fqdn
-	set fqdn "*.msidentity.com"
+set type fqdn
+set fqdn "*.msidentity.com"
 next
 edit "*.phonefactor.net"
-	set type fqdn
-	set fqdn "*.phonefactor.net"
+set type fqdn
+set fqdn "*.phonefactor.net"
 next
 edit "*.sharepointonline.com"
-	set type fqdn
-	set fqdn "*.sharepointonline.com"
+set type fqdn
+set fqdn "*.sharepointonline.com"
 next
 edit "account.activedirectory.windowsazure.com"
-	set type fqdn
-	set fqdn "account.activedirectory.windowsazure.com"
+set type fqdn
+set fqdn "account.activedirectory.windowsazure.com"
 next
 edit "accounts.accesscontrol.windows.net"
-	set type fqdn
-	set fqdn "accounts.accesscontrol.windows.net"
+set type fqdn
+set fqdn "accounts.accesscontrol.windows.net"
 next
 edit "adminwebservice.microsoftonline.com"
-	set type fqdn
-	set fqdn "adminwebservice.microsoftonline.com"
+set type fqdn
+set fqdn "adminwebservice.microsoftonline.com"
 next
 edit "api.passwordreset.microsoftonline.com"
-	set type fqdn
-	set fqdn "api.passwordreset.microsoftonline.com"
+set type fqdn
+set fqdn "api.passwordreset.microsoftonline.com"
 next
 edit "autologon.microsoftazuread-sso.com"
-	set type fqdn
-	set fqdn "autologon.microsoftazuread-sso.com"
+set type fqdn
+set fqdn "autologon.microsoftazuread-sso.com"
 next
 edit "becws.microsoftonline.com"
-	set type fqdn
-	set fqdn "becws.microsoftonline.com"
+set type fqdn
+set fqdn "becws.microsoftonline.com"
 next
 edit "ccs.login.microsoftonline.com"
-	set type fqdn
-	set fqdn "ccs.login.microsoftonline.com"
+set type fqdn
+set fqdn "ccs.login.microsoftonline.com"
 next
 edit "clientconfig.microsoftonline-p.net"
-	set type fqdn
-	set fqdn "clientconfig.microsoftonline-p.net"
+set type fqdn
+set fqdn "clientconfig.microsoftonline-p.net"
 next
 edit "companymanager.microsoftonline.com"
-	set type fqdn
-	set fqdn "companymanager.microsoftonline.com"
+set type fqdn
+set fqdn "companymanager.microsoftonline.com"
 next
 edit "device.login.microsoftonline.com"
-	set type fqdn
-	set fqdn "device.login.microsoftonline.com"
+set type fqdn
+set fqdn "device.login.microsoftonline.com"
 next
 edit "graph.microsoft.com"
-	set type fqdn
-	set fqdn "graph.microsoft.com"
+set type fqdn
+set fqdn "graph.microsoft.com"
 next
 edit "login-us.microsoftonline.com"
-	set type fqdn
-	set fqdn "login-us.microsoftonline.com"
+set type fqdn
+set fqdn "login-us.microsoftonline.com"
 next
 edit "login.microsoftonline-p.com"
-	set type fqdn
-	set fqdn "login.microsoftonline-p.com"
+set type fqdn
+set fqdn "login.microsoftonline-p.com"
 next
 edit "logincert.microsoftonline.com"
-	set type fqdn
-	set fqdn "logincert.microsoftonline.com"
+set type fqdn
+set fqdn "logincert.microsoftonline.com"
 next
 edit "loginex.microsoftonline.com"
-	set type fqdn
-	set fqdn "loginex.microsoftonline.com"
+set type fqdn
+set fqdn "loginex.microsoftonline.com"
 next
 edit "nexus.microsoftonline-p.com"
-	set type fqdn
-	set fqdn "nexus.microsoftonline-p.com"
+set type fqdn
+set fqdn "nexus.microsoftonline-p.com"
 next
 edit "passwordreset.microsoftonline.com"
-	set type fqdn
-	set fqdn "passwordreset.microsoftonline.com"
+set type fqdn
+set fqdn "passwordreset.microsoftonline.com"
 next
 edit "provisioningapi.microsoftonline.com"
-	set type fqdn
-	set fqdn "provisioningapi.microsoftonline.com"
+set type fqdn
+set fqdn "provisioningapi.microsoftonline.com"
 next
 edit "*.aria.microsoft.com"
-	set type fqdn
-	set fqdn "*.aria.microsoft.com"
+set type fqdn
+set fqdn "*.aria.microsoft.com"
 next
 edit "*.blob.core.windows.net"
-	set type fqdn
-	set fqdn "*.blob.core.windows.net"
+set type fqdn
+set fqdn "*.blob.core.windows.net"
 next
 edit "*.compliance.microsoft.com"
-	set type fqdn
-	set fqdn "*.compliance.microsoft.com"
+set type fqdn
+set fqdn "*.compliance.microsoft.com"
 next
 edit "*.events.data.microsoft.com"
-	set type fqdn
-	set fqdn "*.events.data.microsoft.com"
+set type fqdn
+set fqdn "*.events.data.microsoft.com"
 next
 edit "*.o365weve.com"
-	set type fqdn
-	set fqdn "*.o365weve.com"
+set type fqdn
+set fqdn "*.o365weve.com"
 next
 edit "*.portal.cloudappsecurity.com"
-	set type fqdn
-	set fqdn "*.portal.cloudappsecurity.com"
+set type fqdn
+set fqdn "*.portal.cloudappsecurity.com"
 next
 edit "*.protection.office.com"
-	set type fqdn
-	set fqdn "*.protection.office.com"
+set type fqdn
+set fqdn "*.protection.office.com"
 next
 edit "*.security.microsoft.com"
-	set type fqdn
-	set fqdn "*.security.microsoft.com"
+set type fqdn
+set fqdn "*.security.microsoft.com"
 next
 edit "amp.azure.net"
-	set type fqdn
-	set fqdn "amp.azure.net"
+set type fqdn
+set fqdn "amp.azure.net"
 next
 edit "appsforoffice.microsoft.com"
-	set type fqdn
-	set fqdn "appsforoffice.microsoft.com"
+set type fqdn
+set fqdn "appsforoffice.microsoft.com"
 next
 edit "assets.onestore.ms"
-	set type fqdn
-	set fqdn "assets.onestore.ms"
+set type fqdn
+set fqdn "assets.onestore.ms"
 next
 edit "compliance.microsoft.com"
-	set type fqdn
-	set fqdn "compliance.microsoft.com"
+set type fqdn
+set fqdn "compliance.microsoft.com"
 next
 edit "defender.microsoft.com"
-	set type fqdn
-	set fqdn "defender.microsoft.com"
+set type fqdn
+set fqdn "defender.microsoft.com"
 next
 edit "firstpartyapps.oaspapps.com"
-	set type fqdn
-	set fqdn "firstpartyapps.oaspapps.com"
+set type fqdn
+set fqdn "firstpartyapps.oaspapps.com"
 next
 edit "management.azure.com"
-	set type fqdn
-	set fqdn "management.azure.com"
+set type fqdn
+set fqdn "management.azure.com"
 next
 edit "policykeyservice.dc.ad.msft.net"
-	set type fqdn
-	set fqdn "policykeyservice.dc.ad.msft.net"
+set type fqdn
+set fqdn "policykeyservice.dc.ad.msft.net"
 next
 edit "prod.firstpartyapps.oaspapps.com.akadns.net"
-	set type fqdn
-	set fqdn "prod.firstpartyapps.oaspapps.com.akadns.net"
+set type fqdn
+set fqdn "prod.firstpartyapps.oaspapps.com.akadns.net"
 next
 edit "protection.office.com"
-	set type fqdn
-	set fqdn "protection.office.com"
+set type fqdn
+set fqdn "protection.office.com"
 next
 edit "security.microsoft.com"
-	set type fqdn
-	set fqdn "security.microsoft.com"
+set type fqdn
+set fqdn "security.microsoft.com"
 next
 edit "telemetryservice.firstpartyapps.oaspapps.com"
-	set type fqdn
-	set fqdn "telemetryservice.firstpartyapps.oaspapps.com"
+set type fqdn
+set fqdn "telemetryservice.firstpartyapps.oaspapps.com"
 next
 edit "wus-firstpartyapps.oaspapps.com"
-	set type fqdn
-	set fqdn "wus-firstpartyapps.oaspapps.com"
+set type fqdn
+set fqdn "wus-firstpartyapps.oaspapps.com"
 next
 edit "*.aadrm.com"
-	set type fqdn
-	set fqdn "*.aadrm.com"
+set type fqdn
+set fqdn "*.aadrm.com"
 next
 edit "*.azurerms.com"
-	set type fqdn
-	set fqdn "*.azurerms.com"
+set type fqdn
+set fqdn "*.azurerms.com"
 next
 edit "*.cloudapp.net"
-	set type fqdn
-	set fqdn "*.cloudapp.net"
+set type fqdn
+set fqdn "*.cloudapp.net"
 next
 edit "*.informationprotection.azure.com"
-	set type fqdn
-	set fqdn "*.informationprotection.azure.com"
+set type fqdn
+set fqdn "*.informationprotection.azure.com"
 next
 edit "*.office365.com"
-	set type fqdn
-	set fqdn "*.office365.com"
+set type fqdn
+set fqdn "*.office365.com"
 next
 edit "c1.microsoft.com"
-	set type fqdn
-	set fqdn "c1.microsoft.com"
+set type fqdn
+set fqdn "c1.microsoft.com"
 next
 edit "dgps.support.microsoft.com"
-	set type fqdn
-	set fqdn "dgps.support.microsoft.com"
+set type fqdn
+set fqdn "dgps.support.microsoft.com"
 next
 edit "docs.microsoft.com"
-	set type fqdn
-	set fqdn "docs.microsoft.com"
+set type fqdn
+set fqdn "docs.microsoft.com"
 next
 edit "ecn.dev.virtualearth.net"
-	set type fqdn
-	set fqdn "ecn.dev.virtualearth.net"
+set type fqdn
+set fqdn "ecn.dev.virtualearth.net"
 next
 edit "informationprotection.hosting.portal.azure.net"
-	set type fqdn
-	set fqdn "informationprotection.hosting.portal.azure.net"
+set type fqdn
+set fqdn "informationprotection.hosting.portal.azure.net"
 next
 edit "msdn.microsoft.com"
-	set type fqdn
-	set fqdn "msdn.microsoft.com"
+set type fqdn
+set fqdn "msdn.microsoft.com"
 next
 edit "platform.linkedin.com"
-	set type fqdn
-	set fqdn "platform.linkedin.com"
+set type fqdn
+set fqdn "platform.linkedin.com"
 next
 edit "prod.msocdn.com"
-	set type fqdn
-	set fqdn "prod.msocdn.com"
+set type fqdn
+set fqdn "prod.msocdn.com"
 next
 edit "shellprod.msocdn.com"
-	set type fqdn
-	set fqdn "shellprod.msocdn.com"
+set type fqdn
+set fqdn "shellprod.msocdn.com"
 next
 edit "support.microsoft.com"
-	set type fqdn
-	set fqdn "support.microsoft.com"
+set type fqdn
+set fqdn "support.microsoft.com"
 next
 edit "technet.microsoft.com"
-	set type fqdn
-	set fqdn "technet.microsoft.com"
+set type fqdn
+set fqdn "technet.microsoft.com"
 next
 edit "*.msocdn.com"
-	set type fqdn
-	set fqdn "*.msocdn.com"
+set type fqdn
+set fqdn "*.msocdn.com"
 next
 edit "*.onmicrosoft.com"
-	set type fqdn
-	set fqdn "*.onmicrosoft.com"
+set type fqdn
+set fqdn "*.onmicrosoft.com"
 next
 edit "activation.sls.microsoft.com"
-	set type fqdn
-	set fqdn "activation.sls.microsoft.com"
+set type fqdn
+set fqdn "activation.sls.microsoft.com"
 next
 edit "cdn.odc.officeapps.live.com"
-	set type fqdn
-	set fqdn "cdn.odc.officeapps.live.com"
+set type fqdn
+set fqdn "cdn.odc.officeapps.live.com"
 next
 edit "crl.microsoft.com"
-	set type fqdn
-	set fqdn "crl.microsoft.com"
+set type fqdn
+set fqdn "crl.microsoft.com"
 next
 edit "dc.services.visualstudio.com"
-	set type fqdn
-	set fqdn "dc.services.visualstudio.com"
+set type fqdn
+set fqdn "dc.services.visualstudio.com"
 next
 edit "go.microsoft.com"
-	set type fqdn
-	set fqdn "go.microsoft.com"
+set type fqdn
+set fqdn "go.microsoft.com"
 next
 edit "mem.gfx.ms"
-	set type fqdn
-	set fqdn "mem.gfx.ms"
+set type fqdn
+set fqdn "mem.gfx.ms"
 next
 edit "o15.officeredir.microsoft.com"
-	set type fqdn
-	set fqdn "o15.officeredir.microsoft.com"
+set type fqdn
+set fqdn "o15.officeredir.microsoft.com"
 next
 edit "office15client.microsoft.com"
-	set type fqdn
-	set fqdn "office15client.microsoft.com"
+set type fqdn
+set fqdn "office15client.microsoft.com"
 next
 edit "officecdn.microsoft.com"
-	set type fqdn
-	set fqdn "officecdn.microsoft.com"
+set type fqdn
+set fqdn "officecdn.microsoft.com"
 next
 edit "officecdn.microsoft.com.edgesuite.net"
-	set type fqdn
-	set fqdn "officecdn.microsoft.com.edgesuite.net"
+set type fqdn
+set fqdn "officecdn.microsoft.com.edgesuite.net"
 next
 edit "officepreviewredir.microsoft.com"
-	set type fqdn
-	set fqdn "officepreviewredir.microsoft.com"
+set type fqdn
+set fqdn "officepreviewredir.microsoft.com"
 next
 edit "officeredir.microsoft.com"
-	set type fqdn
-	set fqdn "officeredir.microsoft.com"
+set type fqdn
+set fqdn "officeredir.microsoft.com"
 next
 edit "r.office.microsoft.com"
-	set type fqdn
-	set fqdn "r.office.microsoft.com"
+set type fqdn
+set fqdn "r.office.microsoft.com"
 next
 edit "staffhub.ms"
-	set type fqdn
-	set fqdn "staffhub.ms"
+set type fqdn
+set fqdn "staffhub.ms"
 next
 edit "*.acompli.net"
-	set type fqdn
-	set fqdn "*.acompli.net"
+set type fqdn
+set fqdn "*.acompli.net"
 next
 edit "*.outlookmobile.com"
-	set type fqdn
-	set fqdn "*.outlookmobile.com"
+set type fqdn
+set fqdn "*.outlookmobile.com"
 next
 edit "*.virtualearth.net"
-	set type fqdn
-	set fqdn "*.virtualearth.net"
+set type fqdn
+set fqdn "*.virtualearth.net"
 next
 edit "account.live.com"
-	set type fqdn
-	set fqdn "account.live.com"
+set type fqdn
+set fqdn "account.live.com"
 next
 edit "c.bing.net"
-	set type fqdn
-	set fqdn "c.bing.net"
+set type fqdn
+set fqdn "c.bing.net"
 next
 edit "excelbingmap.firstpartyapps.oaspapps.com"
-	set type fqdn
-	set fqdn "excelbingmap.firstpartyapps.oaspapps.com"
+set type fqdn
+set fqdn "excelbingmap.firstpartyapps.oaspapps.com"
 next
 edit "login.live.com"
-	set type fqdn
-	set fqdn "login.live.com"
+set type fqdn
+set fqdn "login.live.com"
 next
 edit "login.windows-ppe.net"
-	set type fqdn
-	set fqdn "login.windows-ppe.net"
+set type fqdn
+set fqdn "login.windows-ppe.net"
 next
 edit "ocos-office365-s2s.msedge.net"
-	set type fqdn
-	set fqdn "ocos-office365-s2s.msedge.net"
+set type fqdn
+set fqdn "ocos-office365-s2s.msedge.net"
 next
 edit "peoplegraph.firstpartyapps.oaspapps.com"
-	set type fqdn
-	set fqdn "peoplegraph.firstpartyapps.oaspapps.com"
+set type fqdn
+set fqdn "peoplegraph.firstpartyapps.oaspapps.com"
 next
 edit "tse1.mm.bing.net"
-	set type fqdn
-	set fqdn "tse1.mm.bing.net"
+set type fqdn
+set fqdn "tse1.mm.bing.net"
 next
 edit "wikipedia.firstpartyapps.oaspapps.com"
-	set type fqdn
-	set fqdn "wikipedia.firstpartyapps.oaspapps.com"
+set type fqdn
+set fqdn "wikipedia.firstpartyapps.oaspapps.com"
 next
 edit "www.acompli.com"
-	set type fqdn
-	set fqdn "www.acompli.com"
+set type fqdn
+set fqdn "www.acompli.com"
 next
 edit "www.bing.com"
-	set type fqdn
-	set fqdn "www.bing.com"
+set type fqdn
+set fqdn "www.bing.com"
 next
 edit "*.appex-rf.msn.com"
-	set type fqdn
-	set fqdn "*.appex-rf.msn.com"
+set type fqdn
+set fqdn "*.appex-rf.msn.com"
 next
 edit "*.appex.bing.com"
-	set type fqdn
-	set fqdn "*.appex.bing.com"
+set type fqdn
+set fqdn "*.appex.bing.com"
 next
 edit "*.assets-yammer.com"
-	set type fqdn
-	set fqdn "*.assets-yammer.com"
+set type fqdn
+set fqdn "*.assets-yammer.com"
 next
 edit "*.entrust.net"
-	set type fqdn
-	set fqdn "*.entrust.net"
+set type fqdn
+set fqdn "*.entrust.net"
 next
 edit "*.geotrust.com"
-	set type fqdn
-	set fqdn "*.geotrust.com"
+set type fqdn
+set fqdn "*.geotrust.com"
 next
 edit "*.yammer.com"
-	set type fqdn
-	set fqdn "*.yammer.com"
+set type fqdn
+set fqdn "*.yammer.com"
 next
 edit "*.yammerusercontent.com"
-	set type fqdn
-	set fqdn "*.yammerusercontent.com"
+set type fqdn
+set fqdn "*.yammerusercontent.com"
 next
 edit "c.bing.com"
-	set type fqdn
-	set fqdn "c.bing.com"
+set type fqdn
+set fqdn "c.bing.com"
 next
 edit "c.live.com"
-	set type fqdn
-	set fqdn "c.live.com"
+set type fqdn
+set fqdn "c.live.com"
 next
 edit "d.docs.live.net"
-	set type fqdn
-	set fqdn "d.docs.live.net"
+set type fqdn
+set fqdn "d.docs.live.net"
 next
 edit "directory.services.live.com"
-	set type fqdn
-	set fqdn "directory.services.live.com"
+set type fqdn
+set fqdn "directory.services.live.com"
 next
 edit "docs.live.net"
-	set type fqdn
-	set fqdn "docs.live.net"
+set type fqdn
+set fqdn "docs.live.net"
 next
 edit "eus-www.sway-cdn.com"
-	set type fqdn
-	set fqdn "eus-www.sway-cdn.com"
+set type fqdn
+set fqdn "eus-www.sway-cdn.com"
 next
 edit "eus-www.sway-extensions.com"
-	set type fqdn
-	set fqdn "eus-www.sway-extensions.com"
+set type fqdn
+set fqdn "eus-www.sway-extensions.com"
 next
 edit "partnerservices.getmicrosoftkey.com"
-	set type fqdn
-	set fqdn "partnerservices.getmicrosoftkey.com"
+set type fqdn
+set fqdn "partnerservices.getmicrosoftkey.com"
 next
 edit "signup.live.com"
-	set type fqdn
-	set fqdn "signup.live.com"
+set type fqdn
+set fqdn "signup.live.com"
 next
 edit "sway.com"
-	set type fqdn
-	set fqdn "sway.com"
+set type fqdn
+set fqdn "sway.com"
 next
 edit "wus-www.sway-cdn.com"
-	set type fqdn
-	set fqdn "wus-www.sway-cdn.com"
+set type fqdn
+set fqdn "wus-www.sway-cdn.com"
 next
 edit "wus-www.sway-extensions.com"
-	set type fqdn
-	set fqdn "wus-www.sway-extensions.com"
+set type fqdn
+set fqdn "wus-www.sway-extensions.com"
 next
 edit "www.outlook.com"
-	set type fqdn
-	set fqdn "www.outlook.com"
+set type fqdn
+set fqdn "www.outlook.com"
 next
 edit "www.sway.com"
-	set type fqdn
-	set fqdn "www.sway.com"
+set type fqdn
+set fqdn "www.sway.com"
 next
 edit "*.activity.windows.com"
-	set type fqdn
-	set fqdn "*.activity.windows.com"
+set type fqdn
+set fqdn "*.activity.windows.com"
 next
 edit "*.azure-apim.net"
-	set type fqdn
-	set fqdn "*.azure-apim.net"
+set type fqdn
+set fqdn "*.azure-apim.net"
 next
 edit "*.cloud.microsoft"
-	set type fqdn
-	set fqdn "*.cloud.microsoft"
+set type fqdn
+set fqdn "*.cloud.microsoft"
 next
 edit "*.cortana.ai"
-	set type fqdn
-	set fqdn "*.cortana.ai"
+set type fqdn
+set fqdn "*.cortana.ai"
 next
 edit "*.flow.microsoft.com"
-	set type fqdn
-	set fqdn "*.flow.microsoft.com"
+set type fqdn
+set fqdn "*.flow.microsoft.com"
 next
 edit "*.microsoftusercontent.com"
-	set type fqdn
-	set fqdn "*.microsoftusercontent.com"
+set type fqdn
+set fqdn "*.microsoftusercontent.com"
 next
 edit "*.omniroot.com"
-	set type fqdn
-	set fqdn "*.omniroot.com"
+set type fqdn
+set fqdn "*.omniroot.com"
 next
 edit "*.powerapps.com"
-	set type fqdn
-	set fqdn "*.powerapps.com"
+set type fqdn
+set fqdn "*.powerapps.com"
 next
 edit "*.public-trust.com"
-	set type fqdn
-	set fqdn "*.public-trust.com"
+set type fqdn
+set fqdn "*.public-trust.com"
 next
 edit "*.symcb.com"
-	set type fqdn
-	set fqdn "*.symcb.com"
+set type fqdn
+set fqdn "*.symcb.com"
 next
 edit "*.symcd.com"
-	set type fqdn
-	set fqdn "*.symcd.com"
+set type fqdn
+set fqdn "*.symcd.com"
 next
 edit "*.verisign.com"
-	set type fqdn
-	set fqdn "*.verisign.com"
+set type fqdn
+set fqdn "*.verisign.com"
 next
 edit "*.verisign.net"
-	set type fqdn
-	set fqdn "*.verisign.net"
+set type fqdn
+set fqdn "*.verisign.net"
 next
 edit "activity.windows.com"
-	set type fqdn
-	set fqdn "activity.windows.com"
+set type fqdn
+set fqdn "activity.windows.com"
 next
 edit "admin.microsoft.com"
-	set type fqdn
-	set fqdn "admin.microsoft.com"
+set type fqdn
+set fqdn "admin.microsoft.com"
 next
 edit "apps.identrust.com"
-	set type fqdn
-	set fqdn "apps.identrust.com"
+set type fqdn
+set fqdn "apps.identrust.com"
 next
 edit "cacerts.digicert.com"
-	set type fqdn
-	set fqdn "cacerts.digicert.com"
+set type fqdn
+set fqdn "cacerts.digicert.com"
 next
 edit "cdn.uci.officeapps.live.com"
-	set type fqdn
-	set fqdn "cdn.uci.officeapps.live.com"
+set type fqdn
+set fqdn "cdn.uci.officeapps.live.com"
 next
 edit "cdnprod.myanalytics.microsoft.com"
-	set type fqdn
-	set fqdn "cdnprod.myanalytics.microsoft.com"
+set type fqdn
+set fqdn "cdnprod.myanalytics.microsoft.com"
 next
 edit "cert.int-x3.letsencrypt.org"
-	set type fqdn
-	set fqdn "cert.int-x3.letsencrypt.org"
+set type fqdn
+set fqdn "cert.int-x3.letsencrypt.org"
 next
 edit "crl.globalsign.com"
-	set type fqdn
-	set fqdn "crl.globalsign.com"
+set type fqdn
+set fqdn "crl.globalsign.com"
 next
 edit "crl.globalsign.net"
-	set type fqdn
-	set fqdn "crl.globalsign.net"
+set type fqdn
+set fqdn "crl.globalsign.net"
 next
 edit "crl.identrust.com"
-	set type fqdn
-	set fqdn "crl.identrust.com"
+set type fqdn
+set fqdn "crl.identrust.com"
 next
 edit "crl3.digicert.com"
-	set type fqdn
-	set fqdn "crl3.digicert.com"
+set type fqdn
+set fqdn "crl3.digicert.com"
 next
 edit "crl4.digicert.com"
-	set type fqdn
-	set fqdn "crl4.digicert.com"
+set type fqdn
+set fqdn "crl4.digicert.com"
 next
 edit "isrg.trustid.ocsp.identrust.com"
-	set type fqdn
-	set fqdn "isrg.trustid.ocsp.identrust.com"
+set type fqdn
+set fqdn "isrg.trustid.ocsp.identrust.com"
 next
 edit "mscrl.microsoft.com"
-	set type fqdn
-	set fqdn "mscrl.microsoft.com"
+set type fqdn
+set fqdn "mscrl.microsoft.com"
 next
 edit "myanalytics-gcc.microsoft.com"
-	set type fqdn
-	set fqdn "myanalytics-gcc.microsoft.com"
+set type fqdn
+set fqdn "myanalytics-gcc.microsoft.com"
 next
 edit "myanalytics.microsoft.com"
-	set type fqdn
-	set fqdn "myanalytics.microsoft.com"
+set type fqdn
+set fqdn "myanalytics.microsoft.com"
 next
 edit "ocsp.digicert.com"
-	set type fqdn
-	set fqdn "ocsp.digicert.com"
+set type fqdn
+set fqdn "ocsp.digicert.com"
 next
 edit "ocsp.globalsign.com"
-	set type fqdn
-	set fqdn "ocsp.globalsign.com"
+set type fqdn
+set fqdn "ocsp.globalsign.com"
 next
 edit "ocsp.int-x3.letsencrypt.org"
-	set type fqdn
-	set fqdn "ocsp.int-x3.letsencrypt.org"
+set type fqdn
+set fqdn "ocsp.int-x3.letsencrypt.org"
 next
 edit "ocsp.msocsp.com"
-	set type fqdn
-	set fqdn "ocsp.msocsp.com"
+set type fqdn
+set fqdn "ocsp.msocsp.com"
 next
 edit "ocsp2.globalsign.com"
-	set type fqdn
-	set fqdn "ocsp2.globalsign.com"
+set type fqdn
+set fqdn "ocsp2.globalsign.com"
 next
 edit "ocspx.digicert.com"
-	set type fqdn
-	set fqdn "ocspx.digicert.com"
+set type fqdn
+set fqdn "ocspx.digicert.com"
 next
 edit "officespeech.platform.bing.com"
-	set type fqdn
-	set fqdn "officespeech.platform.bing.com"
+set type fqdn
+set fqdn "officespeech.platform.bing.com"
 next
 edit "secure.globalsign.com"
-	set type fqdn
-	set fqdn "secure.globalsign.com"
+set type fqdn
+set fqdn "secure.globalsign.com"
 next
 edit "www.digicert.com"
-	set type fqdn
-	set fqdn "www.digicert.com"
+set type fqdn
+set fqdn "www.digicert.com"
 next
 edit "www.microsoft.com"
-	set type fqdn
-	set fqdn "www.microsoft.com"
+set type fqdn
+set fqdn "www.microsoft.com"
 next
 edit "www.microsoft365.com"
-	set type fqdn
-	set fqdn "www.microsoft365.com"
+set type fqdn
+set fqdn "www.microsoft365.com"
 next
 end
 config firewall addrgrp
 edit "microsoft office whitelist"
-	append member "*.azure.com"
-	append member "*.hotmail.com"
-	append member "*.office.com"
-	append member "*.outlook.com"
-	append member "*.sharepoint.com"
-	append member "*.teams.microsoft.com"
-	append member "smtp.office365.com"
-	append member "login.microsoft.com"
-	append member "login.microsoftonline.com"
-	append member "login.windows.net"
-	append member "outlook.office365.com"
-	append member "*.officeconfig.msocdn.com"
-	append member "config.office.com"
-	append member "enterpriseregistration.windows.net"
-	append member "graph.windows.net"
-	append member "*.mail.protection.outlook.com"
-	append member "*.outlook.office.com"
-	append member "*.protection.outlook.com"
-	append member "*.search.production.apac.trafficmanager.net"
-	append member "*.search.production.emea.trafficmanager.net"
-	append member "*.search.production.us.trafficmanager.net"
-	append member "*.svc.ms"
-	append member "*.wns.windows.com"
-	append member "admin.onedrive.com"
-	append member "autodiscover.*.onmicrosoft.com"
-	append member "g.live.com"
-	append member "officeclient.microsoft.com"
-	append member "oneclient.sfx.ms"
-	append member "outlook.office.com"
-	append member "spoprod-a.akamaihd.net"
-	append member "ssw.live.com"
-	append member "storage.live.com"
-	append member "*.adl.windows.com"
-	append member "*.azureedge.net"
-	append member "*.broadcast.skype.com"
-	append member "*.ecdn.microsoft.com"
-	append member "*.keydelivery.mediaservices.windows.net"
-	append member "*.lync.com"
-	append member "*.media.azure.net"
-	append member "*.microsoft.com"
-	append member "*.microsoftstream.com"
-	append member "*.mstea.m"
-	append member "*.office.net"
-	append member "*.officeapps.live.com"
-	append member "*.online.office.com"
-	append member "*.secure.skypeassets.com"
-	append member "*.sfbassets.com"
-	append member "*.skype.com"
-	append member "*.skypeforbusiness.com"
-	append member "*.streaming.mediaservices.windows.net"
-	append member "*.users.storage.live.com"
-	append member "*cdn.onenote.net"
-	append member "ajax.aspnetcdn.com"
-	append member "aka.ms"
-	append member "apis.live.net"
-	append member "broadcast.skype.com"
-	append member "compass-ssl.microsoft.com"
-	append member "mlccdn.blob.core.windows.net"
-	append member "mlccdnprod.azureedge.net"
-	append member "nps.onyx.azure.net"
-	append member "office.live.com"
-	append member "officeapps.live.com"
-	append member "teams.microsoft.com"
-	append member "www.onedrive.com"
-	append member "*.auth.microsoft.com"
-	append member "*.hip.live.com"
-	append member "*.microsoftonline-p.com"
-	append member "*.microsoftonline.com"
-	append member "*.msauth.net"
-	append member "*.msauthimages.net"
-	append member "*.msecnd.net"
-	append member "*.msftauth.net"
-	append member "*.msftauthimages.net"
-	append member "*.msftidentity.com"
-	append member "*.msidentity.com"
-	append member "*.phonefactor.net"
-	append member "*.sharepointonline.com"
-	append member "account.activedirectory.windowsazure.com"
-	append member "accounts.accesscontrol.windows.net"
-	append member "adminwebservice.microsoftonline.com"
-	append member "api.passwordreset.microsoftonline.com"
-	append member "autologon.microsoftazuread-sso.com"
-	append member "becws.microsoftonline.com"
-	append member "ccs.login.microsoftonline.com"
-	append member "clientconfig.microsoftonline-p.net"
-	append member "companymanager.microsoftonline.com"
-	append member "device.login.microsoftonline.com"
-	append member "graph.microsoft.com"
-	append member "login-us.microsoftonline.com"
-	append member "login.microsoftonline-p.com"
-	append member "logincert.microsoftonline.com"
-	append member "loginex.microsoftonline.com"
-	append member "nexus.microsoftonline-p.com"
-	append member "passwordreset.microsoftonline.com"
-	append member "provisioningapi.microsoftonline.com"
-	append member "*.aria.microsoft.com"
-	append member "*.blob.core.windows.net"
-	append member "*.compliance.microsoft.com"
-	append member "*.events.data.microsoft.com"
-	append member "*.o365weve.com"
-	append member "*.portal.cloudappsecurity.com"
-	append member "*.protection.office.com"
-	append member "*.security.microsoft.com"
-	append member "amp.azure.net"
-	append member "appsforoffice.microsoft.com"
-	append member "assets.onestore.ms"
-	append member "compliance.microsoft.com"
-	append member "defender.microsoft.com"
-	append member "firstpartyapps.oaspapps.com"
-	append member "management.azure.com"
-	append member "policykeyservice.dc.ad.msft.net"
-	append member "prod.firstpartyapps.oaspapps.com.akadns.net"
-	append member "protection.office.com"
-	append member "security.microsoft.com"
-	append member "telemetryservice.firstpartyapps.oaspapps.com"
-	append member "wus-firstpartyapps.oaspapps.com"
-	append member "*.aadrm.com"
-	append member "*.azurerms.com"
-	append member "*.cloudapp.net"
-	append member "*.informationprotection.azure.com"
-	append member "*.office365.com"
-	append member "c1.microsoft.com"
-	append member "dgps.support.microsoft.com"
-	append member "docs.microsoft.com"
-	append member "ecn.dev.virtualearth.net"
-	append member "informationprotection.hosting.portal.azure.net"
-	append member "msdn.microsoft.com"
-	append member "platform.linkedin.com"
-	append member "prod.msocdn.com"
-	append member "shellprod.msocdn.com"
-	append member "support.microsoft.com"
-	append member "technet.microsoft.com"
-	append member "*.msocdn.com"
-	append member "*.onmicrosoft.com"
-	append member "activation.sls.microsoft.com"
-	append member "cdn.odc.officeapps.live.com"
-	append member "crl.microsoft.com"
-	append member "dc.services.visualstudio.com"
-	append member "go.microsoft.com"
-	append member "mem.gfx.ms"
-	append member "o15.officeredir.microsoft.com"
-	append member "office15client.microsoft.com"
-	append member "officecdn.microsoft.com"
-	append member "officecdn.microsoft.com.edgesuite.net"
-	append member "officepreviewredir.microsoft.com"
-	append member "officeredir.microsoft.com"
-	append member "r.office.microsoft.com"
-	append member "staffhub.ms"
-	append member "*.acompli.net"
-	append member "*.outlookmobile.com"
-	append member "*.virtualearth.net"
-	append member "account.live.com"
-	append member "c.bing.net"
-	append member "excelbingmap.firstpartyapps.oaspapps.com"
-	append member "login.live.com"
-	append member "login.windows-ppe.net"
-	append member "ocos-office365-s2s.msedge.net"
-	append member "peoplegraph.firstpartyapps.oaspapps.com"
-	append member "tse1.mm.bing.net"
-	append member "wikipedia.firstpartyapps.oaspapps.com"
-	append member "www.acompli.com"
-	append member "www.bing.com"
-	append member "*.appex-rf.msn.com"
-	append member "*.appex.bing.com"
-	append member "*.assets-yammer.com"
-	append member "*.entrust.net"
-	append member "*.geotrust.com"
-	append member "*.yammer.com"
-	append member "*.yammerusercontent.com"
-	append member "c.bing.com"
-	append member "c.live.com"
-	append member "d.docs.live.net"
-	append member "directory.services.live.com"
-	append member "docs.live.net"
-	append member "eus-www.sway-cdn.com"
-	append member "eus-www.sway-extensions.com"
-	append member "partnerservices.getmicrosoftkey.com"
-	append member "signup.live.com"
-	append member "sway.com"
-	append member "wus-www.sway-cdn.com"
-	append member "wus-www.sway-extensions.com"
-	append member "www.outlook.com"
-	append member "www.sway.com"
-	append member "*.activity.windows.com"
-	append member "*.azure-apim.net"
-	append member "*.cloud.microsoft"
-	append member "*.cortana.ai"
-	append member "*.flow.microsoft.com"
-	append member "*.microsoftusercontent.com"
-	append member "*.omniroot.com"
-	append member "*.powerapps.com"
-	append member "*.public-trust.com"
-	append member "*.symcb.com"
-	append member "*.symcd.com"
-	append member "*.verisign.com"
-	append member "*.verisign.net"
-	append member "activity.windows.com"
-	append member "admin.microsoft.com"
-	append member "apps.identrust.com"
-	append member "cacerts.digicert.com"
-	append member "cdn.uci.officeapps.live.com"
-	append member "cdnprod.myanalytics.microsoft.com"
-	append member "cert.int-x3.letsencrypt.org"
-	append member "crl.globalsign.com"
-	append member "crl.globalsign.net"
-	append member "crl.identrust.com"
-	append member "crl3.digicert.com"
-	append member "crl4.digicert.com"
-	append member "isrg.trustid.ocsp.identrust.com"
-	append member "mscrl.microsoft.com"
-	append member "myanalytics-gcc.microsoft.com"
-	append member "myanalytics.microsoft.com"
-	append member "ocsp.digicert.com"
-	append member "ocsp.globalsign.com"
-	append member "ocsp.int-x3.letsencrypt.org"
-	append member "ocsp.msocsp.com"
-	append member "ocsp2.globalsign.com"
-	append member "ocspx.digicert.com"
-	append member "officespeech.platform.bing.com"
-	append member "secure.globalsign.com"
-	append member "www.digicert.com"
-	append member "www.microsoft.com"
-	append member "www.microsoft365.com"
+append member "*.azure.com"
+append member "*.hotmail.com"
+append member "*.office.com"
+append member "*.outlook.com"
+append member "*.sharepoint.com"
+append member "*.teams.microsoft.com"
+append member "smtp.office365.com"
+append member "login.microsoft.com"
+append member "login.microsoftonline.com"
+append member "login.windows.net"
+append member "outlook.office365.com"
+append member "*.officeconfig.msocdn.com"
+append member "config.office.com"
+append member "enterpriseregistration.windows.net"
+append member "graph.windows.net"
+append member "*.mail.protection.outlook.com"
+append member "*.outlook.office.com"
+append member "*.protection.outlook.com"
+append member "*.search.production.apac.trafficmanager.net"
+append member "*.search.production.emea.trafficmanager.net"
+append member "*.search.production.us.trafficmanager.net"
+append member "*.svc.ms"
+append member "*.wns.windows.com"
+append member "admin.onedrive.com"
+append member "autodiscover.*.onmicrosoft.com"
+append member "g.live.com"
+append member "officeclient.microsoft.com"
+append member "oneclient.sfx.ms"
+append member "outlook.office.com"
+append member "spoprod-a.akamaihd.net"
+append member "ssw.live.com"
+append member "storage.live.com"
+append member "*.adl.windows.com"
+append member "*.azureedge.net"
+append member "*.broadcast.skype.com"
+append member "*.ecdn.microsoft.com"
+append member "*.keydelivery.mediaservices.windows.net"
+append member "*.lync.com"
+append member "*.media.azure.net"
+append member "*.microsoft.com"
+append member "*.microsoftstream.com"
+append member "*.mstea.m"
+append member "*.office.net"
+append member "*.officeapps.live.com"
+append member "*.online.office.com"
+append member "*.secure.skypeassets.com"
+append member "*.sfbassets.com"
+append member "*.skype.com"
+append member "*.skypeforbusiness.com"
+append member "*.streaming.mediaservices.windows.net"
+append member "*.users.storage.live.com"
+append member "*cdn.onenote.net"
+append member "ajax.aspnetcdn.com"
+append member "aka.ms"
+append member "apis.live.net"
+append member "broadcast.skype.com"
+append member "compass-ssl.microsoft.com"
+append member "mlccdn.blob.core.windows.net"
+append member "mlccdnprod.azureedge.net"
+append member "nps.onyx.azure.net"
+append member "office.live.com"
+append member "officeapps.live.com"
+append member "teams.microsoft.com"
+append member "www.onedrive.com"
+append member "*.auth.microsoft.com"
+append member "*.hip.live.com"
+append member "*.microsoftonline-p.com"
+append member "*.microsoftonline.com"
+append member "*.msauth.net"
+append member "*.msauthimages.net"
+append member "*.msecnd.net"
+append member "*.msftauth.net"
+append member "*.msftauthimages.net"
+append member "*.msftidentity.com"
+append member "*.msidentity.com"
+append member "*.phonefactor.net"
+append member "*.sharepointonline.com"
+append member "account.activedirectory.windowsazure.com"
+append member "accounts.accesscontrol.windows.net"
+append member "adminwebservice.microsoftonline.com"
+append member "api.passwordreset.microsoftonline.com"
+append member "autologon.microsoftazuread-sso.com"
+append member "becws.microsoftonline.com"
+append member "ccs.login.microsoftonline.com"
+append member "clientconfig.microsoftonline-p.net"
+append member "companymanager.microsoftonline.com"
+append member "device.login.microsoftonline.com"
+append member "graph.microsoft.com"
+append member "login-us.microsoftonline.com"
+append member "login.microsoftonline-p.com"
+append member "logincert.microsoftonline.com"
+append member "loginex.microsoftonline.com"
+append member "nexus.microsoftonline-p.com"
+append member "passwordreset.microsoftonline.com"
+append member "provisioningapi.microsoftonline.com"
+append member "*.aria.microsoft.com"
+append member "*.blob.core.windows.net"
+append member "*.compliance.microsoft.com"
+append member "*.events.data.microsoft.com"
+append member "*.o365weve.com"
+append member "*.portal.cloudappsecurity.com"
+append member "*.protection.office.com"
+append member "*.security.microsoft.com"
+append member "amp.azure.net"
+append member "appsforoffice.microsoft.com"
+append member "assets.onestore.ms"
+append member "compliance.microsoft.com"
+append member "defender.microsoft.com"
+append member "firstpartyapps.oaspapps.com"
+append member "management.azure.com"
+append member "policykeyservice.dc.ad.msft.net"
+append member "prod.firstpartyapps.oaspapps.com.akadns.net"
+append member "protection.office.com"
+append member "security.microsoft.com"
+append member "telemetryservice.firstpartyapps.oaspapps.com"
+append member "wus-firstpartyapps.oaspapps.com"
+append member "*.aadrm.com"
+append member "*.azurerms.com"
+append member "*.cloudapp.net"
+append member "*.informationprotection.azure.com"
+append member "*.office365.com"
+append member "c1.microsoft.com"
+append member "dgps.support.microsoft.com"
+append member "docs.microsoft.com"
+append member "ecn.dev.virtualearth.net"
+append member "informationprotection.hosting.portal.azure.net"
+append member "msdn.microsoft.com"
+append member "platform.linkedin.com"
+append member "prod.msocdn.com"
+append member "shellprod.msocdn.com"
+append member "support.microsoft.com"
+append member "technet.microsoft.com"
+append member "*.msocdn.com"
+append member "*.onmicrosoft.com"
+append member "activation.sls.microsoft.com"
+append member "cdn.odc.officeapps.live.com"
+append member "crl.microsoft.com"
+append member "dc.services.visualstudio.com"
+append member "go.microsoft.com"
+append member "mem.gfx.ms"
+append member "o15.officeredir.microsoft.com"
+append member "office15client.microsoft.com"
+append member "officecdn.microsoft.com"
+append member "officecdn.microsoft.com.edgesuite.net"
+append member "officepreviewredir.microsoft.com"
+append member "officeredir.microsoft.com"
+append member "r.office.microsoft.com"
+append member "staffhub.ms"
+append member "*.acompli.net"
+append member "*.outlookmobile.com"
+append member "*.virtualearth.net"
+append member "account.live.com"
+append member "c.bing.net"
+append member "excelbingmap.firstpartyapps.oaspapps.com"
+append member "login.live.com"
+append member "login.windows-ppe.net"
+append member "ocos-office365-s2s.msedge.net"
+append member "peoplegraph.firstpartyapps.oaspapps.com"
+append member "tse1.mm.bing.net"
+append member "wikipedia.firstpartyapps.oaspapps.com"
+append member "www.acompli.com"
+append member "www.bing.com"
+append member "*.appex-rf.msn.com"
+append member "*.appex.bing.com"
+append member "*.assets-yammer.com"
+append member "*.entrust.net"
+append member "*.geotrust.com"
+append member "*.yammer.com"
+append member "*.yammerusercontent.com"
+append member "c.bing.com"
+append member "c.live.com"
+append member "d.docs.live.net"
+append member "directory.services.live.com"
+append member "docs.live.net"
+append member "eus-www.sway-cdn.com"
+append member "eus-www.sway-extensions.com"
+append member "partnerservices.getmicrosoftkey.com"
+append member "signup.live.com"
+append member "sway.com"
+append member "wus-www.sway-cdn.com"
+append member "wus-www.sway-extensions.com"
+append member "www.outlook.com"
+append member "www.sway.com"
+append member "*.activity.windows.com"
+append member "*.azure-apim.net"
+append member "*.cloud.microsoft"
+append member "*.cortana.ai"
+append member "*.flow.microsoft.com"
+append member "*.microsoftusercontent.com"
+append member "*.omniroot.com"
+append member "*.powerapps.com"
+append member "*.public-trust.com"
+append member "*.symcb.com"
+append member "*.symcd.com"
+append member "*.verisign.com"
+append member "*.verisign.net"
+append member "activity.windows.com"
+append member "admin.microsoft.com"
+append member "apps.identrust.com"
+append member "cacerts.digicert.com"
+append member "cdn.uci.officeapps.live.com"
+append member "cdnprod.myanalytics.microsoft.com"
+append member "cert.int-x3.letsencrypt.org"
+append member "crl.globalsign.com"
+append member "crl.globalsign.net"
+append member "crl.identrust.com"
+append member "crl3.digicert.com"
+append member "crl4.digicert.com"
+append member "isrg.trustid.ocsp.identrust.com"
+append member "mscrl.microsoft.com"
+append member "myanalytics-gcc.microsoft.com"
+append member "myanalytics.microsoft.com"
+append member "ocsp.digicert.com"
+append member "ocsp.globalsign.com"
+append member "ocsp.int-x3.letsencrypt.org"
+append member "ocsp.msocsp.com"
+append member "ocsp2.globalsign.com"
+append member "ocspx.digicert.com"
+append member "officespeech.platform.bing.com"
+append member "secure.globalsign.com"
+append member "www.digicert.com"
+append member "www.microsoft.com"
+append member "www.microsoft365.com"
 next
 end
