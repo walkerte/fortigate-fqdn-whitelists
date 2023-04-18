@@ -1,0 +1,271 @@
+config firewall address
+edit "albert.apple.com"
+set type fqdn
+set fqdn "albert.apple.com"
+next
+edit "captive.apple.com"
+set type fqdn
+set fqdn "captive.apple.com"
+next
+edit "gs.apple.com"
+set type fqdn
+set fqdn "gs.apple.com"
+next
+edit "humb.apple.com"
+set type fqdn
+set fqdn "humb.apple.com"
+next
+edit "static.ips.apple.com"
+set type fqdn
+set fqdn "static.ips.apple.com"
+next
+edit "sq-device.apple.com"
+set type fqdn
+set fqdn "sq-device.apple.com"
+next
+edit "tbsc.apple.com"
+set type fqdn
+set fqdn "tbsc.apple.com"
+next
+edit "time-ios.apple.com"
+set type fqdn
+set fqdn "time-ios.apple.com"
+next
+edit "time.apple.com"
+set type fqdn
+set fqdn "time.apple.com"
+next
+edit "time-macos.apple.com"
+set type fqdn
+set fqdn "time-macos.apple.com"
+next
+edit "*.push.apple.com"
+set type fqdn
+set fqdn "*.push.apple.com"
+next
+edit "deviceenrollment.apple.com"
+set type fqdn
+set fqdn "deviceenrollment.apple.com"
+next
+edit "deviceservices-external.apple.com"
+set type fqdn
+set fqdn "deviceservices-external.apple.com"
+next
+edit "gdmf.apple.com"
+set type fqdn
+set fqdn "gdmf.apple.com"
+next
+edit "identity.apple.com"
+set type fqdn
+set fqdn "identity.apple.com"
+next
+edit "iprofiles.apple.com"
+set type fqdn
+set fqdn "iprofiles.apple.com"
+next
+edit "mdmenrollment.apple.com"
+set type fqdn
+set fqdn "mdmenrollment.apple.com"
+next
+edit "setup.icloud.com"
+set type fqdn
+set fqdn "setup.icloud.com"
+next
+edit "vpp.itunes.apple.com"
+set type fqdn
+set fqdn "vpp.itunes.apple.com"
+next
+edit "appldnld.apple.com"
+set type fqdn
+set fqdn "appldnld.apple.com"
+next
+edit "configuration.apple.com"
+set type fqdn
+set fqdn "configuration.apple.com"
+next
+edit "gdmf.apple.com"
+set type fqdn
+set fqdn "gdmf.apple.com"
+next
+edit "gg.apple.com"
+set type fqdn
+set fqdn "gg.apple.com"
+next
+edit "gs.apple.com"
+set type fqdn
+set fqdn "gs.apple.com"
+next
+edit "ig.apple.com"
+set type fqdn
+set fqdn "ig.apple.com"
+next
+edit "mesu.apple.com"
+set type fqdn
+set fqdn "mesu.apple.com"
+next
+edit "ns.itunes.apple.com"
+set type fqdn
+set fqdn "ns.itunes.apple.com"
+next
+edit "oscdn.apple.com"
+set type fqdn
+set fqdn "oscdn.apple.com"
+next
+edit "osrecovery.apple.com"
+set type fqdn
+set fqdn "osrecovery.apple.com"
+next
+edit "skl.apple.com"
+set type fqdn
+set fqdn "skl.apple.com"
+next
+edit "swcdn.apple.com"
+set type fqdn
+set fqdn "swcdn.apple.com"
+next
+edit "swdist.apple.com"
+set type fqdn
+set fqdn "swdist.apple.com"
+next
+edit "swdownload.apple.com"
+set type fqdn
+set fqdn "swdownload.apple.com"
+next
+edit "swscan.apple.com"
+set type fqdn
+set fqdn "swscan.apple.com"
+next
+edit "updates-http.cdn-apple.com"
+set type fqdn
+set fqdn "updates-http.cdn-apple.com"
+next
+edit "updates.cdn-apple.com"
+set type fqdn
+set fqdn "updates.cdn-apple.com"
+next
+edit "xp.apple.com"
+set type fqdn
+set fqdn "xp.apple.com"
+next
+edit "*.itunes.apple.com"
+set type fqdn
+set fqdn "*.itunes.apple.com"
+next
+edit "*.apps.apple.com"
+set type fqdn
+set fqdn "*.apps.apple.com"
+next
+edit "*.mzstatic.com"
+set type fqdn
+set fqdn "*.mzstatic.com"
+next
+edit "itunes.apple.com"
+set type fqdn
+set fqdn "itunes.apple.com"
+next
+edit "ppq.apple.com"
+set type fqdn
+set fqdn "ppq.apple.com"
+next
+edit "appldnld.apple.com"
+set type fqdn
+set fqdn "appldnld.apple.com"
+next
+edit "appldnld.apple.com.edgesuite.net"
+set type fqdn
+set fqdn "appldnld.apple.com.edgesuite.net"
+next
+edit "itunes.com"
+set type fqdn
+set fqdn "itunes.com"
+next
+edit "itunes.apple.com"
+set type fqdn
+set fqdn "itunes.apple.com"
+next
+edit "updates-http.cdn-apple.com"
+set type fqdn
+set fqdn "updates-http.cdn-apple.com"
+next
+edit "updates.cdn-apple.com"
+set type fqdn
+set fqdn "updates.cdn-apple.com"
+next
+edit "lcdn-registration.apple.com"
+set type fqdn
+set fqdn "lcdn-registration.apple.com"
+next
+edit "suconfig.apple.com"
+set type fqdn
+set fqdn "suconfig.apple.com"
+next
+edit "xp-cdn.apple.com"
+set type fqdn
+set fqdn "xp-cdn.apple.com"
+next
+edit "lcdn-locator.apple.com"
+set type fqdn
+set fqdn "lcdn-locator.apple.com"
+next
+edit "serverstatus.apple.com"
+set type fqdn
+set fqdn "serverstatus.apple.com"
+next
+end
+config firewall addrgrp
+edit "apple whitelist"
+append member "albert.apple.com"
+append member "captive.apple.com"
+append member "gs.apple.com"
+append member "humb.apple.com"
+append member "static.ips.apple.com"
+append member "sq-device.apple.com"
+append member "tbsc.apple.com"
+append member "time-ios.apple.com"
+append member "time.apple.com"
+append member "time-macos.apple.com"
+append member "*.push.apple.com"
+append member "deviceenrollment.apple.com"
+append member "deviceservices-external.apple.com"
+append member "gdmf.apple.com"
+append member "identity.apple.com"
+append member "iprofiles.apple.com"
+append member "mdmenrollment.apple.com"
+append member "setup.icloud.com"
+append member "vpp.itunes.apple.com"
+append member "appldnld.apple.com"
+append member "configuration.apple.com"
+append member "gdmf.apple.com"
+append member "gg.apple.com"
+append member "gs.apple.com"
+append member "ig.apple.com"
+append member "mesu.apple.com"
+append member "ns.itunes.apple.com"
+append member "oscdn.apple.com"
+append member "osrecovery.apple.com"
+append member "skl.apple.com"
+append member "swcdn.apple.com"
+append member "swdist.apple.com"
+append member "swdownload.apple.com"
+append member "swscan.apple.com"
+append member "updates-http.cdn-apple.com"
+append member "updates.cdn-apple.com"
+append member "xp.apple.com"
+append member "*.itunes.apple.com"
+append member "*.apps.apple.com"
+append member "*.mzstatic.com"
+append member "itunes.apple.com"
+append member "ppq.apple.com"
+append member "appldnld.apple.com"
+append member "appldnld.apple.com.edgesuite.net"
+append member "itunes.com"
+append member "itunes.apple.com"
+append member "updates-http.cdn-apple.com"
+append member "updates.cdn-apple.com"
+append member "lcdn-registration.apple.com"
+append member "suconfig.apple.com"
+append member "xp-cdn.apple.com"
+append member "lcdn-locator.apple.com"
+append member "serverstatus.apple.com"
+next
+end
