@@ -1,0 +1,326 @@
+config firewall address
+edit "g0-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g0-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g1-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g1-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g2-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g2-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g3-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g3-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g4-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g4-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g5-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g5-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g6-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g6-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g7-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g7-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g8-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g8-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g9-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g9-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g10-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g10-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g11-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g11-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g12-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g12-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g13-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g13-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g14-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g14-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g15-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g15-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g16-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g16-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g17-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g17-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g18-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g18-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g19-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g19-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g20-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g20-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g21-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g21-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g22-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g22-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g23-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g23-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g24-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g24-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g25-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g25-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g26-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g26-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g27-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g27-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g28-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g28-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g29-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g29-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g30-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g30-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g31-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g31-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g32-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g32-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g33-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g33-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g34-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g34-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g35-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g35-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g36-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g36-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g37-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g37-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g38-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g38-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g39-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g39-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g40-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g40-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g41-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g41-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g42-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g42-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g43-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g43-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g44-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g44-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g45-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g45-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g46-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g46-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g47-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g47-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g48-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g48-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g49-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g49-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g50-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g50-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g51-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g51-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g52-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g52-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g53-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g53-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g54-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g54-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g55-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g55-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g56-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g56-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g57-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g57-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g58-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g58-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g59-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g59-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g60-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g60-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g61-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g61-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g62-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g62-prod-dm2-004-sb.servicebus.windows.net"
+next
+edit "g63-prod-dm2-004-sb.servicebus.windows.net"
+set type fqdn
+set fqdn "g63-prod-dm2-004-sb.servicebus.windows.net"
+next
+end
+config firewall addrgrp
+edit "win911"
+append member "g0-prod-dm2-004-sb.servicebus.windows.net"
+append member "g1-prod-dm2-004-sb.servicebus.windows.net"
+append member "g2-prod-dm2-004-sb.servicebus.windows.net"
+append member "g3-prod-dm2-004-sb.servicebus.windows.net"
+append member "g4-prod-dm2-004-sb.servicebus.windows.net"
+append member "g5-prod-dm2-004-sb.servicebus.windows.net"
+append member "g6-prod-dm2-004-sb.servicebus.windows.net"
+append member "g7-prod-dm2-004-sb.servicebus.windows.net"
+append member "g8-prod-dm2-004-sb.servicebus.windows.net"
+append member "g9-prod-dm2-004-sb.servicebus.windows.net"
+append member "g10-prod-dm2-004-sb.servicebus.windows.net"
+append member "g11-prod-dm2-004-sb.servicebus.windows.net"
+append member "g12-prod-dm2-004-sb.servicebus.windows.net"
+append member "g13-prod-dm2-004-sb.servicebus.windows.net"
+append member "g14-prod-dm2-004-sb.servicebus.windows.net"
+append member "g15-prod-dm2-004-sb.servicebus.windows.net"
+append member "g16-prod-dm2-004-sb.servicebus.windows.net"
+append member "g17-prod-dm2-004-sb.servicebus.windows.net"
+append member "g18-prod-dm2-004-sb.servicebus.windows.net"
+append member "g19-prod-dm2-004-sb.servicebus.windows.net"
+append member "g20-prod-dm2-004-sb.servicebus.windows.net"
+append member "g21-prod-dm2-004-sb.servicebus.windows.net"
+append member "g22-prod-dm2-004-sb.servicebus.windows.net"
+append member "g23-prod-dm2-004-sb.servicebus.windows.net"
+append member "g24-prod-dm2-004-sb.servicebus.windows.net"
+append member "g25-prod-dm2-004-sb.servicebus.windows.net"
+append member "g26-prod-dm2-004-sb.servicebus.windows.net"
+append member "g27-prod-dm2-004-sb.servicebus.windows.net"
+append member "g28-prod-dm2-004-sb.servicebus.windows.net"
+append member "g29-prod-dm2-004-sb.servicebus.windows.net"
+append member "g30-prod-dm2-004-sb.servicebus.windows.net"
+append member "g31-prod-dm2-004-sb.servicebus.windows.net"
+append member "g32-prod-dm2-004-sb.servicebus.windows.net"
+append member "g33-prod-dm2-004-sb.servicebus.windows.net"
+append member "g34-prod-dm2-004-sb.servicebus.windows.net"
+append member "g35-prod-dm2-004-sb.servicebus.windows.net"
+append member "g36-prod-dm2-004-sb.servicebus.windows.net"
+append member "g37-prod-dm2-004-sb.servicebus.windows.net"
+append member "g38-prod-dm2-004-sb.servicebus.windows.net"
+append member "g39-prod-dm2-004-sb.servicebus.windows.net"
+append member "g40-prod-dm2-004-sb.servicebus.windows.net"
+append member "g41-prod-dm2-004-sb.servicebus.windows.net"
+append member "g42-prod-dm2-004-sb.servicebus.windows.net"
+append member "g43-prod-dm2-004-sb.servicebus.windows.net"
+append member "g44-prod-dm2-004-sb.servicebus.windows.net"
+append member "g45-prod-dm2-004-sb.servicebus.windows.net"
+append member "g46-prod-dm2-004-sb.servicebus.windows.net"
+append member "g47-prod-dm2-004-sb.servicebus.windows.net"
+append member "g48-prod-dm2-004-sb.servicebus.windows.net"
+append member "g49-prod-dm2-004-sb.servicebus.windows.net"
+append member "g50-prod-dm2-004-sb.servicebus.windows.net"
+append member "g51-prod-dm2-004-sb.servicebus.windows.net"
+append member "g52-prod-dm2-004-sb.servicebus.windows.net"
+append member "g53-prod-dm2-004-sb.servicebus.windows.net"
+append member "g54-prod-dm2-004-sb.servicebus.windows.net"
+append member "g55-prod-dm2-004-sb.servicebus.windows.net"
+append member "g56-prod-dm2-004-sb.servicebus.windows.net"
+append member "g57-prod-dm2-004-sb.servicebus.windows.net"
+append member "g58-prod-dm2-004-sb.servicebus.windows.net"
+append member "g59-prod-dm2-004-sb.servicebus.windows.net"
+append member "g60-prod-dm2-004-sb.servicebus.windows.net"
+append member "g61-prod-dm2-004-sb.servicebus.windows.net"
+append member "g62-prod-dm2-004-sb.servicebus.windows.net"
+append member "g63-prod-dm2-004-sb.servicebus.windows.net"
+next
+end
